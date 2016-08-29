@@ -1,5 +1,5 @@
 ![alt tag](http://duskoperic.com/svg/svg.png)
-# SVG-Self-Drawing-Icons
+# SVG Self-drawing Icons
 
 Angularjs app
 
