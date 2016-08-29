@@ -1,6 +1,6 @@
 ![alt tag](http://duskoperic.com/svg/svg.png)
 # SVG Self-drawing Icons
 
-Angularjs app
+[Check DEMO here!](http://duskoperic.com/svg/)
 
 
