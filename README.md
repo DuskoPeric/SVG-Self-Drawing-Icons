@@ -2,4 +2,4 @@
 
 Angularjs app
 
-![alt tag](http://localhost/boltron/svg.png)
+![alt tag](http://duskoperic.com/svg/svg.png)
