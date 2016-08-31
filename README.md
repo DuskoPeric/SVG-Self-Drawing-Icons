@@ -19,3 +19,11 @@
   ```
 
 3. Instead of dummbell class add name of your icon. A list of all the icons can be found [here](http://duskoperic.com/svg/#/icons)
+
+##Attributes
+Draw:
+
+ * `bounce`
+  * `flash`
+ 
+
