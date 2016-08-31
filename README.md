@@ -23,7 +23,12 @@
 ##Attributes
 Draw:
 
- * `bounce`
-  * `flash`
+ * `single`
+ * `infinite`
+ 
+Draw:
+
+ * `single`
+ * `infinite`
  
 
