@@ -12,4 +12,10 @@
     <script type="text/javascript" src="jsicon.min.js"></script>
   </head>
   ```
+2. Add the svg tag with attributes
 
+  ```html
+<svg draw="single" effect="rotate-auto" width="128" height="128" color="#00B5E8" class="svg-icon  dummbell " viewBox="0 0 256 256"></svg>
+  ```
+
+3. Instead of dummbell class add name of your icon. A list of all the icons can be found [here](http://duskoperic.com/svg/#/icons)
