@@ -44,3 +44,7 @@ width:
 height:
 
  * `0-256`
+
+## Dependencies
+
+jQuery
