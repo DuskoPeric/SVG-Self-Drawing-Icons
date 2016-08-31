@@ -21,14 +21,26 @@
 3. Instead of dummbell class add name of your icon. A list of all the icons can be found [here](http://duskoperic.com/svg/#/icons)
 
 ##Attributes
-Draw:
+draw:
 
  * `single`
  * `infinite`
  
-Draw:
+effect:
 
- * `single`
- * `infinite`
+ * `rotate-auto`
+ * `rotate-hover`
+ * `flip-vertical-auto`
+ * `flip-vertical-hover`
+ * `flip-horisontal-auto`
+ * `flip-horisontal-hover`
+ * `bounce-auto`
+ * `bounce-hover`
  
+width:
 
+ * `0-256`
+
+height:
+
+ * `0-256`
